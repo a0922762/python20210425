@@ -10,5 +10,5 @@ print(a)
 參數的hi會出現在螢幕上
 ```python
 a=input('hi: ')
-
+'''
 ## 第三章 運算元
